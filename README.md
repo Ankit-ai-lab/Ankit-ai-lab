@@ -1,3 +1,8 @@
+
+![Setup Screenshot](https://raw.githubusercontent.com/your-username/your-repo/main/setup-preview.png)
+
+
+
 <h1 align="center">Hi 👋, I'm Ankit Gupta</h1>
 <h3 align="center">Full Stack Developer from India | Learning Data & Business Analysis | Curious about AI/ML</h3>
 
