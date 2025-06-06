@@ -1,5 +1,4 @@
-
-![Setup Screenshot](https://raw.githubusercontent.com/your-username/your-repo/main/setup-preview.png)
+![Setup Screenshot](https://raw.githubusercontent.com/MayuR397/MayuR397/main/git.jpg)
 
 
 
