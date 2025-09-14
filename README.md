@@ -4,7 +4,15 @@
 ---
 
 🎥 **Watch My Latest Website Demo Video**
-[![Watch my video](https://img.youtube.com/vi/5Kl27qNLhaE/0.jpg)](https://youtu.be/5Kl27qNLhaE?si=wPQpE1CsRw9eRyT-)
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <a href="https://youtu.be/5Kl27qNLhaE?si=wPQpE1CsRw9eRyT-" target="_blank">
+    <img src="https://img.youtube.com/vi/5Kl27qNLhaE/0.jpg" alt="Watch my video" width="48%" />
+  </a>
+
+  <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:7363616058210971651" target="_blank">
+    <img src="https://via.placeholder.com/500x250" alt="LinkedIn Post Video" width="48%" />
+  </a>
+</div>
 
 ---
 
@@ -15,7 +23,9 @@
 - 💬 Ask me about **React, Node.js, Python, AI/ML, Data Science, and Business Analysis**
 - 📫 How to reach me: **ankitguptame98@gmail.com**
 - ⚡ Fun fact: I love solving complex problems and turning ideas into reality through code
+
 ![Setup Screenshot](https://raw.githubusercontent.com/MayuR397/MayuR397/main/git.jpg)
+
 ---
 
 ## 📊 GitHub Stats
@@ -104,13 +114,6 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ankit-ai-lab&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-ai-lab" /> 
 </p>
-
----
-
-## 🎥 LinkedIn Post Video
-[Check out my LinkedIn post video here](https://www.linkedin.com/feed/update/urn:li:ugcPost:7363616058210971651)
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7363616058210971651?collapsed=1" height="541" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 ---
 
