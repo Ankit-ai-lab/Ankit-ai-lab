@@ -1,9 +1,9 @@
 # Hi 👋, I'm Ankit Gupta
-### Full Stack Developer from India | Learning Data & Business Analysis | Curious about AI/ML
+### Full Stack Developer from India | Data & Business Analysis | Curious about AI/ML
 
 ---
 
-🎥 **Watch My Introduction Video**
+🎥 **Watch My Latest Website Demo Video**
 [![Watch my video](https://img.youtube.com/vi/5Kl27qNLhaE/0.jpg)](https://youtu.be/5Kl27qNLhaE?si=wPQpE1CsRw9eRyT-)
 
 ---
@@ -15,7 +15,7 @@
 - 💬 Ask me about **React, Node.js, Python, AI/ML, Data Science, and Business Analysis**
 - 📫 How to reach me: **ankitguptame98@gmail.com**
 - ⚡ Fun fact: I love solving complex problems and turning ideas into reality through code
-
+![Setup Screenshot](https://raw.githubusercontent.com/MayuR397/MayuR397/main/git.jpg)
 ---
 
 ## 📊 GitHub Stats
