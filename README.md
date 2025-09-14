@@ -1,13 +1,13 @@
 ![Setup Screenshot](https://raw.githubusercontent.com/MayuR397/MayuR397/main/git.jpg)
 
+[Watch my video here](https://youtu.be/5Kl27qNLhaE?si=trLZGGAwbTWLc_4S)
+[![Watch my video](https://img.youtube.com/vi/5Kl27qNLhaE/0.jpg)](https://youtu.be/5Kl27qNLhaE?si=trLZGGAwbTWLc_4S)
 
 
 <h1 align="center">Hi 👋, I'm Ankit Gupta</h1>
 <h3 align="center">Full Stack Developer from India | Learning Data & Business Analysis | Curious about AI/ML</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit-ai-lab" alt="ankit-ai-lab" /></a> </p>
-
-- 🔭 I’m currently working on [MentroPay](https://github.com/Ankit-ai-lab/MentroPay)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ankit-ai-lab](https://github.com/Ankit-ai-lab)
 
