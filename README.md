@@ -29,6 +29,8 @@
 ### LinkedIn Post:
 [Check out my LinkedIn post here](https://www.linkedin.com/feed/update/urn:li:ugcPost:7363616058210971651)
 
+[![LinkedIn Post](https://via.placeholder.com/500x250)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7363616058210971651)
+
 ---
 
 ### Languages and Tools:
@@ -67,9 +69,9 @@
 
 ---
 
-### Weekly Commits:
+### Weekly Commits (This Week):
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ankit-ai-lab&theme=github" alt="week activity" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ankit-ai-lab&theme=github&hide_border=true" alt="week activity" />
 </p>
 
 ---
