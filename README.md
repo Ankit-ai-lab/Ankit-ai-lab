@@ -10,9 +10,7 @@
     <img src="https://img.youtube.com/vi/p5gXYMbqk1Q/0.jpg" alt="Watch my video" width="48%" />
   </a>
 
-  <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:7363616058210971651" target="_blank">
-    <img src="https://via.placeholder.com/500x250" alt="LinkedIn Post Video" width="48%" />
-  </a>
+<a href="https://youtu.be/5Kl27qNLhaE?si=wPQpE1CsRw9eRyT-" target="_blank"> <img src="https://img.youtube.com/vi/5Kl27qNLhaE/0.jpg" alt="Watch my video" width="48%" /> </a>
 </div>
 
 ---
