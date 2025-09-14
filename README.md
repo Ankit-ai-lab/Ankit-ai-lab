@@ -1,7 +1,7 @@
 ![Setup Screenshot](https://raw.githubusercontent.com/MayuR397/MayuR397/main/git.jpg)
 
 # Hi 👋, I'm Ankit Gupta
-### Full Stack Developer from India |  Data & Business Analysis | Curious about AI/ML and More Automation for 
+### Full Stack Developer from India | Learning Data & Business Analysis | Curious about AI/ML
 
 ---
 
@@ -26,6 +26,11 @@
 
 ---
 
+### LinkedIn Post:
+[Check out my LinkedIn post here](https://www.linkedin.com/feed/update/urn:li:ugcPost:7363616058210971651)
+
+---
+
 ### Languages and Tools:
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -46,6 +51,25 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
+</p>
+
+---
+
+### GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit-ai-lab&show_icons=true&locale=en" alt="ankit-ai-lab" />
+</p>
+
+### Commits & Streaks:
+- **Total Commits**: ![Ankit's Total Commits](https://github-readme-stats.vercel.app/api/committers?username=ankit-ai-lab)
+- **Current Streak**: ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankit-ai-lab)
+- **Longest Streak**: ![Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankit-ai-lab&card_width=500)
+
+---
+
+### Weekly Commits:
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ankit-ai-lab&theme=github" alt="week activity" />
 </p>
 
 ---
