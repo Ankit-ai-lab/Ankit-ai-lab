@@ -34,9 +34,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ankit-ai-lab&show_icons=true&theme=radical" alt="Ankit's GitHub stats" height="160" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-ai-lab&layout=compact&theme=radical" alt="Top Languages" height="160" /> 
 </p>
+
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-ai-lab&theme=radical" alt="GitHub Streak" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-ai-lab&theme=radical" alt="GitHub Streak" />
 </p>
+
+### 📈 Custom GitHub Stats:
+
+- **Total Issues Created:** ![Issues Created](https://img.shields.io/github/issues/ankit-ai-lab?style=flat-square)
+- **Total Commits:** ![Total Commits](https://img.shields.io/github/commit-activity/m/ankit-ai-lab?style=flat-square)
+
 
 ---
 
