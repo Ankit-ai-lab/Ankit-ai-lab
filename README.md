@@ -40,10 +40,8 @@
 </p>
 
 ### 📈 Custom GitHub Stats:
-
 - **Total Issues Created:** ![Issues Created](https://img.shields.io/github/issues/ankit-ai-lab?style=flat-square)
 - **Total Commits:** ![Total Commits](https://img.shields.io/github/commit-activity/m/ankit-ai-lab?style=flat-square)
-
 
 ---
 
