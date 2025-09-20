@@ -40,12 +40,17 @@
 </p>
 
 <p align="center">
+  <!-- GitHub Streak Stats (Current and Longest Streak) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-ai-lab&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <!-- GitHub Metrics (shows longest streak, current streak, most productive day, etc.) -->
   <img src="https://github.com/ankit-ai-lab/github-metrics/blob/master/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
-
 ### 📈 Custom GitHub Stats:
+- **Total Issues Created:** ![Issues Created](https://img.shields.io/github/issues/ankit-ai-lab?style=flat-square)
 - **Total Commits (this repo):** ![Total Commits](https://img.shields.io/github/commit-activity/m/ankit-ai-lab/Ankit-ai-lab?style=flat-square)
 - **Total Commits (all repos):** ![Total Commits](https://img.shields.io/github/commit-activity/m/ankit-ai-lab?style=flat-square)
 - **Pull Requests:** ![Pull Requests](https://img.shields.io/github/issues-pr/ankit-ai-lab?style=flat-square)
