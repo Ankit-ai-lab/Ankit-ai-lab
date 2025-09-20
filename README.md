@@ -39,11 +39,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-ai-lab&layout=compact&theme=radical" alt="Top Languages" height="160" />
 </p>
 
-
+<p align="center">
+  <!-- GitHub Metrics (shows longest streak, current streak, most productive day, etc.) -->
+  <img src="https://github.com/ankit-ai-lab/github-metrics/blob/master/github-metrics.svg" alt="GitHub Metrics" />
+</p>
 
 
 ### 📈 Custom GitHub Stats:
-- **Total Commits :** ![Total Commits](https://img.shields.io/github/commit-activity/m/ankit-ai-lab/Ankit-ai-lab?style=flat-square)
+- **Total Commits (this repo):** ![Total Commits](https://img.shields.io/github/commit-activity/m/ankit-ai-lab/Ankit-ai-lab?style=flat-square)
+- **Total Commits (all repos):** ![Total Commits](https://img.shields.io/github/commit-activity/m/ankit-ai-lab?style=flat-square)
+- **Pull Requests:** ![Pull Requests](https://img.shields.io/github/issues-pr/ankit-ai-lab?style=flat-square)
 - **Followers:** ![Followers](https://img.shields.io/github/followers/ankit-ai-lab?style=flat-square)
 
 ---
