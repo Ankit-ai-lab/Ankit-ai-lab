@@ -6,6 +6,16 @@
 
 ---
 
+<!-- AUTO-PLAY VIDEO -->
+<div align="center" style="margin-bottom: 20px;">
+  <video width="500" autoplay loop muted playsinline>
+    <source src="https://github.com/ankit-ai-lab/ankit-ai-lab/blob/main/developer%20video.mp4?raw=true" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+---
+
 <!-- PROFILE INTRO WITH PORTFOLIO PREVIEW -->
 <table align="center" width="100%">
   <tr>
