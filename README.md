@@ -40,9 +40,9 @@
         />
       </a>
 
-      <!-- ANIMATED GIF BELOW (FIXED LINK) -->
+      <!-- ANIMATED GIF BELOW (WORKING LINK) -->
       <img 
-        src="https://media4.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
+        src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIIUS7N/coding-freak.gif" 
         alt="Animated Developer GIF" 
         width="90%" 
         style="border-radius: 10px; margin-top: 5px;" 
