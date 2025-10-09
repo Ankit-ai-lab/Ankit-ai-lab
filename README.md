@@ -22,41 +22,23 @@
     <!-- LEFT SIDE -->
     <td width="50%" valign="top">
 
-      <ul>
-        <li>🔭 Working on various full-stack projects & exploring AI/ML technologies</li>
-        <li>🌱 Learning Full Stack Development, AI/ML, and Automation</li>
-        <li>👯 Open to collaborate on innovative web & AI projects</li>
-        <li>💬 Ask me about <b>React, Node.js, Python, AI/ML, Data Science, and Business Analysis</b></li>
-        <li>📫 Reach me at: <b>ankitguptame98@gmail.com</b></li>
-        <li>⚡ Fun fact: I love solving complex problems and turning ideas into reality</li>
-      </ul>
+     <ul>
+  <li>🔭 Working on various full-stack projects & exploring AI/ML technologies</li>
+  <li>🌱 Learning Full Stack Development, AI/ML, and Automation</li>
+  <li>👯 Open to collaborate on innovative web & AI projects</li>
+  <li>💬 Ask me about <b>React, Node.js, Python, AI/ML, Data Science, and Business Analysis</b></li>
+  <li>📫 Reach me at: <b>ankitguptame98@gmail.com</b></li>
+  <li>⚡ Fun fact: I love solving complex problems and turning ideas into reality</li>
+</ul>
 
-      <p>
-        🔗 <a href="https://ankit-gupta-personal.vercel.app/" target="_blank"><b>🌐 Visit My Portfolio Website</b></a>
-      </p>
+<p>
+  🔗 <b>Main Portfolio Project:</b> <a href="https://www.digiexpres.com" target="_blank">www.digiexpres.com</a> – Full business website built from scratch using <b>React.js, Tailwind CSS, and Lucid components</b>.
+</p>
 
-    </td>
+<p>
+  🔗 <b>My Portfolio Website:</b> <a href="https://ankit-gupta-personal.vercel.app/" target="_blank">ankit-gupta-personal.vercel.app</a>
+</p>
 
-    <!-- RIGHT SIDE -->
-    <td width="50%" align="center">
-
-      <!-- PORTFOLIO PREVIEW IMAGE -->
-      <a href="https://ankit-gupta-personal.vercel.app/" target="_blank">
-        <img 
-          src="https://raw.githubusercontent.com/ankit-ai-lab/ankit-ai-lab/main/portfolio-preview.png" 
-          alt="Portfolio Preview" 
-          width="95%" 
-          style="border-radius: 10px; margin-bottom: 10px;" 
-        />
-      </a>
-
-      <!-- ANIMATED GIF BELOW (WORKING LINK) -->
-      <img 
-        src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIIUS7N/coding-freak.gif" 
-        alt="Animated Developer GIF" 
-        width="90%" 
-        style="border-radius: 10px; margin-top: 5px;" 
-      />
     </td>
   </tr>
 </table>
