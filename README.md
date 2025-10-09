@@ -40,9 +40,9 @@
         />
       </a>
 
-      <!-- ANIMATED GIF BELOW -->
+      <!-- ANIMATED GIF BELOW (FIXED LINK) -->
       <img 
-        src="https://camo.githubusercontent.com/57810dc6ee84d906abc049097f92fc587ad85e0c122c5d56a2291cb779db80d9/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" 
+        src="https://media4.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
         alt="Animated Developer GIF" 
         width="90%" 
         style="border-radius: 10px; margin-top: 5px;" 
