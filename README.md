@@ -1,5 +1,34 @@
-# Hi 👋, I'm Ankit Gupta
-### Full Stack Developer from India | Data & Business Analysis | Curious about AI/ML
+<!-- HEADER SECTION -->
+<div align="center">
+  <h1>Hi 👋, I'm Ankit Gupta</h1>
+  <h3>Full Stack Developer from India | Data & Business Analysis | Curious about AI/ML</h3>
+</div>
+
+---
+
+<!-- TOP INTRO WITH IMAGE AND PORTFOLIO -->
+<table align="center" width="100%">
+  <tr>
+    <!-- LEFT SIDE: DETAILS -->
+    <td width="50%" valign="top">
+      <ul>
+        <li>🔭 Working on various full-stack projects & exploring AI/ML technologies</li>
+        <li>🌱 Learning Full Stack Development, AI/ML, and Automation</li>
+        <li>👯 Open to collaborate on innovative web & AI projects</li>
+        <li>💬 Ask me about <b>React, Node.js, Python, AI/ML, Data Science, and Business Analysis</b></li>
+        <li>📫 Reach me at: <b>ankitguptame98@gmail.com</b></li>
+        <li>⚡ Fun fact: I love solving complex problems and turning ideas into reality</li>
+      </ul>
+
+      🔗 <a href="https://ankit-gupta-personal.vercel.app/" target="_blank"><b>🌐 Visit My Portfolio</b></a>
+    </td>
+
+    <!-- RIGHT SIDE: PROFILE IMAGE -->
+    <td width="50%" align="center">
+      <img src="https://camo.githubusercontent.com/57810dc6ee84d906abc049097f92fc587ad85e0c122c5d56a2291cb779db80d9/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="Profile Animation" width="100%" style="border-radius: 10px;"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -7,118 +36,68 @@
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
   <a href="https://www.youtube.com/embed/p5gXYMbqk1Q?si=aYoCvZOahCuL0xRh" target="_blank">
-    <img src="https://img.youtube.com/vi/p5gXYMbqk1Q/0.jpg" alt="Watch my video" width="48%" />
+    <img src="https://img.youtube.com/vi/p5gXYMbqk1Q/0.jpg" alt="Website Demo 1" width="48%" />
   </a>
-
   <a href="https://youtu.be/5Kl27qNLhaE?si=wPQpE1CsRw9eRyT-" target="_blank">
-    <img src="https://img.youtube.com/vi/5Kl27qNLhaE/0.jpg" alt="Watch my video" width="48%" />
+    <img src="https://img.youtube.com/vi/5Kl27qNLhaE/0.jpg" alt="Website Demo 2" width="48%" />
   </a>
 </div>
-
----
-
-## 👨‍💻 About Me
-- 🔭 I'm currently working on various full-stack projects and exploring AI/ML technologies
-- 🌱 Learning Full Stack Development, AI/ML Development, and Automation Development
-- 👯 Looking to collaborate on innovative web projects and AI applications
-- 💬 Ask me about **React, Node.js, Python, AI/ML, Data Science, and Business Analysis**
-- 📫 How to reach me: **ankitguptame98@gmail.com**
-- ⚡ Fun fact: I love solving complex problems and turning ideas into reality through code
-
-![Setup Screenshot](https://raw.githubusercontent.com/MayuR397/MayuR397/main/git.jpg)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Profile Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit-ai-lab&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Ankit's GitHub stats" height="160" />
-
-  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit-ai-lab&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-ai-lab&layout=compact&theme=radical" alt="Top Languages" height="160" />
 </p>
 
 <p align="center">
-  <!-- GitHub Streak Stats (Current and Longest Streak) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-ai-lab&theme=radical" alt="GitHub Streak" />
 </p>
-
-
-
-### 📈 Custom GitHub Stats:
-- **Total Commits (this repo):** ![Total Commits](https://img.shields.io/github/commit-activity/m/ankit-ai-lab/Ankit-ai-lab?style=flat-square)
-
-- **Followers:** ![Followers](https://img.shields.io/github/followers/ankit-ai-lab?style=flat-square)
 
 ---
 
 ## 🔧 Technologies & Tools
 
-### Frontend Development
-<p align="left"> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
+### Frontend
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
 </p>
 
-### Backend Development
-<p align="left"> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
+### Backend
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
 </p>
 
 ### Databases
-<p align="left"> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
 </p>
 
 ### AI/ML & Automation
-<p align="left"> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 <p align="left"> 
-  <a href="https://linkedin.com/in/ankitgupta" target="blank"> 
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit gupta" height="30" width="40" /> 
+  <a href="https://linkedin.com/in/ankitgupta" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a> 
-  <a href="https://github.com/ankit-ai-lab" target="blank"> 
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ankit-ai-lab" height="30" width="40" /> 
+  <a href="https://github.com/ankit-ai-lab" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
   </a> 
 </p>
 
@@ -126,9 +105,10 @@
 
 ## 👀 Profile Views
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ankit-ai-lab&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-ai-lab" /> 
+  <img src="https://komarev.com/ghpvc/?username=ankit-ai-lab&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
 ---
 
-Thanks for visiting my profile! Have a great day! 😊
+Thanks for visiting my profile! 😊  
+⭐️ **Star my repos if you like my work!**
