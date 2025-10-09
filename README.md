@@ -6,11 +6,12 @@
 
 ---
 
-<!-- TOP INTRO WITH IMAGE AND PORTFOLIO -->
+<!-- PROFILE INTRO WITH PORTFOLIO PREVIEW -->
 <table align="center" width="100%">
   <tr>
-    <!-- LEFT SIDE: DETAILS -->
+    <!-- LEFT SIDE -->
     <td width="50%" valign="top">
+
       <ul>
         <li>🔭 Working on various full-stack projects & exploring AI/ML technologies</li>
         <li>🌱 Learning Full Stack Development, AI/ML, and Automation</li>
@@ -20,12 +21,32 @@
         <li>⚡ Fun fact: I love solving complex problems and turning ideas into reality</li>
       </ul>
 
-      🔗 <a href="https://ankit-gupta-personal.vercel.app/" target="_blank"><b>🌐 Visit My Portfolio</b></a>
+      <p>
+        🔗 <a href="https://ankit-gupta-personal.vercel.app/" target="_blank"><b>🌐 Visit My Portfolio Website</b></a>
+      </p>
+
     </td>
 
-    <!-- RIGHT SIDE: PROFILE IMAGE -->
+    <!-- RIGHT SIDE -->
     <td width="50%" align="center">
-      <img src="https://camo.githubusercontent.com/57810dc6ee84d906abc049097f92fc587ad85e0c122c5d56a2291cb779db80d9/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="Profile Animation" width="100%" style="border-radius: 10px;"/>
+
+      <!-- PORTFOLIO PREVIEW IMAGE -->
+      <a href="https://ankit-gupta-personal.vercel.app/" target="_blank">
+        <img 
+          src="https://raw.githubusercontent.com/ankit-ai-lab/ankit-ai-lab/main/portfolio-preview.png" 
+          alt="Portfolio Preview" 
+          width="95%" 
+          style="border-radius: 10px; margin-bottom: 10px;" 
+        />
+      </a>
+
+      <!-- ANIMATED GIF BELOW -->
+      <img 
+        src="https://camo.githubusercontent.com/57810dc6ee84d906abc049097f92fc587ad85e0c122c5d56a2291cb779db80d9/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" 
+        alt="Animated Developer GIF" 
+        width="90%" 
+        style="border-radius: 10px; margin-top: 5px;" 
+      />
     </td>
   </tr>
 </table>
@@ -34,12 +55,12 @@
 
 🎥 **Watch My Latest Website Demo Video**
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
+<div align="center">
   <a href="https://www.youtube.com/embed/p5gXYMbqk1Q?si=aYoCvZOahCuL0xRh" target="_blank">
-    <img src="https://img.youtube.com/vi/p5gXYMbqk1Q/0.jpg" alt="Website Demo 1" width="48%" />
+    <img src="https://img.youtube.com/vi/p5gXYMbqk1Q/0.jpg" alt="Website Demo 1" width="45%" style="margin-right:10px; border-radius: 8px;" />
   </a>
   <a href="https://youtu.be/5Kl27qNLhaE?si=wPQpE1CsRw9eRyT-" target="_blank">
-    <img src="https://img.youtube.com/vi/5Kl27qNLhaE/0.jpg" alt="Website Demo 2" width="48%" />
+    <img src="https://img.youtube.com/vi/5Kl27qNLhaE/0.jpg" alt="Website Demo 2" width="45%" style="border-radius: 8px;" />
   </a>
 </div>
 
@@ -48,12 +69,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit-ai-lab&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-ai-lab&layout=compact&theme=radical" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit-ai-lab&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-ai-lab&layout=compact&theme=radical" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-ai-lab&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-ai-lab&theme=radical" />
 </p>
 
 ---
@@ -105,7 +126,7 @@
 
 ## 👀 Profile Views
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ankit-ai-lab&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=ankit-ai-lab&label=Profile%20views&color=0e75b6&style=flat" /> 
 </p>
 
 ---
