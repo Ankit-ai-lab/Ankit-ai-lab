@@ -1,15 +1,22 @@
 💻 Full Stack Developer | AI Enthusiast
-<div align="center"> <!-- AUTO-PLAYING VIDEO --> <video width="80%" autoplay loop muted playsinline style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);"> <source src="https://github.com/ankit-ai-lab/ankit-ai-lab/blob/main/developer%20video.mp4?raw=true" type="video/mp4"> Your browser does not support the video tag. </video> <h2>🚀 Ankit Gupta</h2> <h3>Full Stack Developer | Data Analyst | AI/ML Explorer</h3> <p> <a href="https://www.digiexpres.com" target="_blank">🌐 Live Portfolio</a> • <a href="https://linkedin.com/in/ankitgupta" target="_blank">💼 LinkedIn</a> • <a href="mailto:ankitguptame98@gmail.com">📧 Hire Me</a> </p></div>
-🎥 Latest Project Demo
-<div align="center"> <h3>🔥 DigiExpres - Full Business Website</h3> <p><b>Live at:</b> <a href="https://www.digiexpres.com" target="_blank">www.digiexpres.com</a></p> <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> <a href="https://www.youtube.com/embed/p5gXYMbqk1Q?si=aYoCvZOahCuL0xRh" target="_blank" style="text-decoration: none;"> <div style="text-align: center;"> <img src="https://img.youtube.com/vi/p5gXYMbqk1Q/0.jpg" alt="Website Demo 1" style="width: 300px; border-radius: 10px; border: 3px solid #00ff88;"/> <p style="margin-top: 10px; color: white;">🎬 Demo Video 1</p> </div> </a>
-text
-<a href="https://youtu.be/5Kl27qNLhaE?si=wPQpE1CsRw9eRyT-" target="_blank" style="text-decoration: none;">
-  <div style="text-align: center;">
-    <img src="https://img.youtube.com/vi/5Kl27qNLhaE/0.jpg" alt="Website Demo 2" style="width: 300px; border-radius: 10px; border: 3px solid #00ff88;"/>
-    <p style="margin-top: 10px; color: white;">🎬 Demo Video 2</p>
-  </div>
-</a>
-</div></div>
+
+<div align="center">
+  <!-- AUTO-PLAYING VIDEO -->
+  <video width="80%" autoplay loop muted playsinline style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+    <source src="https://github.com/ankit-ai-lab/ankit-ai-lab/blob/main/developer%20video.mp4?raw=true" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  <h2>🚀 Ankit Gupta</h2>
+  <h3>Full Stack Developer | Data Analyst | AI/ML Explorer</h3>
+  
+  <p>
+    <a href="https://www.digiexpres.com" target="_blank">🌐 Live Portfolio</a> •
+    <a href="https://linkedin.com/in/ankitgupta" target="_blank">💼 LinkedIn</a> •
+    <a href="https://drive.google.com/uc?export=download&id=1xmxDnRbAFlyHHoRHxcbxiKEoB4P0X6ml" target="_blank">📧 Hire Me / Resume</a>
+  </p>
+</div>
+
 👨‍💻 About Me
 javascript
 const developer = {
