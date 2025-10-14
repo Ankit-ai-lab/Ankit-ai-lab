@@ -17,8 +17,11 @@
   </p>
 </div>
 
-👨‍💻 About Me
-javascript
+---
+
+## 👨‍💻 About Me
+
+```javascript
 const developer = {
   name: "Ankit Gupta",
   role: "Full Stack Developer",
@@ -36,75 +39,50 @@ const developer = {
 };
 💡 What I Do:
 
-🔭 Working on full-stack web applications
+🔭 Build full-stack web apps
 
 🌱 Learning AI/ML integration in web apps
 
-👯 Looking to collaborate on innovative projects
+👯 Collaborate on innovative projects
 
 💬 Ask me about React, Node.js, Python, AI/ML
 
 ⚡ Fun fact: I turn coffee into code!
 
 🛠️ Tech Stack
-Frontend Development
-<div align="center"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" /></div>
-Backend Development
-<div align="center"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></div>
-Databases & Cloud
-<div align="center"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></div>
-AI/ML Technologies
-<div align="center"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" /></div>
+Frontend:
+
+<div align="center"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> </div>
+Backend:
+
+<div align="center"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> </div>
+Databases & Cloud:
+
+<div align="center"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> </div>
+AI/ML:
+
+<div align="center"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> </div>
 📊 GitHub Stats
-<div align="center"> <table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=ankit-ai-lab&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-ai-lab&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </td> </tr> </table>
-https://github-readme-streak-stats.herokuapp.com/?user=ankit-ai-lab&theme=radical&hide_border=true
-
-https://github-readme-activity-graph.vercel.app/graph?username=ankit-ai-lab&theme=react-dark&hide_border=true&area=true
-
-</div>
-🏆 GitHub Trophies
-<div align="center">
-https://github-profile-trophy.vercel.app/?username=ankit-ai-lab&theme=radical&no-frame=true&row=2&column=4
-
-</div>
-📈 Weekly Development Activity
-text
-🌞 Morning     ████████████░░░░░░░░    60%
-🌆 Daytime     ████████████████░░░░    80%
-🌙 Evening     ████████████████████    100%
-🌚 Night       ██████░░░░░░░░░░░░░░    30%
-
-JavaScript     ██████████████░░░░░░    70%
-Python         █████████░░░░░░░░░░░    45%
-Java           ██████░░░░░░░░░░░░░░    30%
-HTML/CSS       ████████░░░░░░░░░░░░    40%
+<div align="center"> <table> <tr> <td><img src="https://github-readme-stats.vercel.app/api?username=ankit-ai-lab&show_icons=true&theme=radical&hide_border=true" /></td> <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-ai-lab&layout=compact&theme=radical&hide_border=true" /></td> </tr> </table> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-ai-lab&theme=radical&hide_border=true" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit-ai-lab&theme=react-dark&hide_border=true&area=true" /> </div>
 🚀 Featured Projects
 🌟 DigiExpres Business Website
-🔗 Live: www.digiexpres.com
-
 Tech: React.js, Tailwind CSS, Node.js
-
 Features: Responsive design, Modern UI/UX, Business solutions
 
 🔥 Other Notable Projects
-E-commerce Platform - Full MERN stack application
 
-AI Chat Application - Real-time messaging with ML
+E-commerce Platform - Full MERN stack
 
-Data Analytics Dashboard - Interactive data visualization
+AI Chat Application - Real-time ML messaging
+
+Data Analytics Dashboard - Interactive charts
 
 Automation Tools - Python scripts for efficiency
 
 📫 Connect With Me
-<div align="center">
-https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-
-</div>
+<div align="center"> <a href="https://www.digiexpres.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a> <a href="https://linkedin.com/in/ankitgupta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:ankitguptame98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://github.com/ankit-ai-lab" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://drive.google.com/uc?export=download&id=1xmxDnRbAFlyHHoRHxcbxiKEoB4P0X6ml" target="_blank"><img src="https://img.shields.io/badge/Hire%20Me%20Resume-FF5733?style=for-the-badge&logo=google-drive&logoColor=white" /></a> </div>
 💡 Currently Working On
-🤖 AI/ML Integration in web applications
+🤖 AI/ML Integration in web apps
 
 ⚡ Microservices Architecture
 
@@ -114,12 +92,4 @@ https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoC
 
 🎯 Performance Optimization
 
-<div align="center">
-⭐️ Support My Work
-If you like what I do, please give a ⭐ to my repositories!
-
-https://komarev.com/ghpvc/?username=ankit-ai-lab&label=Profile%2520Views&color=blue&style=for-the-badge
-
-"Code is poetry in motion" 🚀
-
-</div>
+<div align="center"> ⭐️ Support My Work If you like what I do, please ⭐ my repositories! <br/> <img src="https://komarev.com/ghpvc/?username=ankit-ai-lab&label=Profile%20Views&color=blue&style=for-the-badge" /> <p>"Code is poetry in motion" 🚀</p> </div> ```
