@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nayan Hajare</h1>
+<h1 align="center">Hi 👋, I'm Ankit Gupta</h1>
 <h3 align="center">🚀 A Passionate Full Stack Developer | MERN Stack | System Design Learner</h3>
 
 <p align="center">
@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nayanhajare&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ankit-ai-lab&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
