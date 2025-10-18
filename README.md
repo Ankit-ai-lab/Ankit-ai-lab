@@ -1,12 +1,6 @@
 # Ankit Gupta — Full Stack Developer | AI Enthusiast
 
 <div align="center">
-  <!-- AUTO-PLAYING VIDEO -->
-  <video width="80%" autoplay loop muted playsinline style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-    <source src="https://github.com/ankit-ai-lab/ankit-ai-lab/raw/main/developer%20video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-
   <h2>🚀 Ankit Gupta</h2>
   <h3>Full Stack Developer | Data Analyst | AI/ML Explorer</h3>
 
@@ -15,6 +9,37 @@
     <a href="https://linkedin.com/in/ankitgupta" target="_blank" rel="noopener">💼 LinkedIn</a> •
     <a href="https://drive.google.com/uc?export=download&id=1xmxDnRbAFlyHHoRHxcbxiKEoB4P0X6ml" target="_blank" rel="noopener">📧 Hire Me / Resume</a>
   </p>
+</div>
+
+---
+
+## 🎬 Developer Showcase
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="flex: 1 1 45%; min-width: 300px;">
+    <video width="100%" autoplay loop muted playsinline style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+      <source src="https://github.com/ankit-ai-lab/ankit-ai-lab/raw/main/developer%20video.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div style="flex: 1 1 45%; min-width: 300px;">
+    <iframe width="100%" height="315"
+      src="https://www.youtube.com/embed/5Kl27qNLhaE?si=ThZsixKBQnsJ6orG"
+      title="YouTube video 1" frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+    </iframe>
+  </div>
+</div>
+
+<div align="center" style="margin-top: 25px;">
+  <iframe width="80%" height="315"
+    src="https://www.youtube.com/embed/p5gXYMbqk1Q?si=rdVuZD5mf1ffXdIS"
+    title="YouTube video 2" frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+  </iframe>
 </div>
 
 ---
@@ -37,6 +62,7 @@ const developer = {
   hobbies: ["Coding", "Problem Solving", "Learning New Tech"],
   contact: "ankitguptame98@gmail.com"
 };
+
 ```
 
 💡 What I Do:
