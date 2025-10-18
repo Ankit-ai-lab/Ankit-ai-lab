@@ -1,7 +1,6 @@
 # 💻 Ankit Gupta — Full Stack Developer | AI Enthusiast
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ankit 25Gupta&fontSize=60&fontAlignY=35&animation=fadeIn" alt="Ankit Gupta header" />
+
 
   <h2>🚀 Full Stack Developer | Data Analyst | AI/ML Explorer</h2>
 
