@@ -1,106 +1,99 @@
-# 💻 Ankit Gupta — Full Stack Developer | AI Enthusiast
+<h1 align="center">Hi 👋, I'm Nayan Hajare</h1>
+<h3 align="center">🚀 A Passionate Full Stack Developer | MERN Stack | System Design Learner</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=600&padding=2&lines=Full+Stack+Developer+%7C+React+%7C+Node.js+%7C+MongoDB;Clean+Code+%7C+System+Design+Learner+%7C+UI+Lover" alt="Typing SVG" />
 
 
-
-  <h2>🚀 Full Stack Developer | Data Analyst | AI/ML Explorer</h2>
-
-  <p>
-    <a href="https://www.digiexpres.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-    </a>
-    <a href="https://linkedin.com/in/ankitgupta" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:ankitguptame98@gmail.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://drive.google.com/uc?export=download&id=1xmxDnRbAFlyHHoRHxcbxiKEoB4P0X6ml" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Resume-FF5733?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
-    </a>
-  </p>
-</div>
+</p>
 
 ---
 
-## 🎬 Featured Projects Showcase
-> Live project demos and recordings — click to open in a new tab.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nayanhajare&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=p5gXYMbqk1Q" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo 1"/>
+---
+
+## 🧑‍💻 About Me
+
+- 💻 I’m a **Full Stack Web Developer (MERN)** trained at **Masai School**
+- 🌱 Currently learning **System Design Basics**
+- 👨‍💻 Projects include: **Loan Application System**, **Team Collaboration App**, **Investment Tracker**
+- 💬 Ask me about: `JavaScript`, `React`, `Node.js`, `MongoDB`, `Express`, `System Design`
+- 📫 Reach me: **nayan.hajare28@gmail.com**
+- 🎯 Goal: Building performant, secure, and scalable web apps
+- ⚡ Fun fact: I write clean code while listening to lo-fi beats 🎧
+
+---
+
+## 🚀 Projects
+
+| Project Name                | Description                                             | Stack Used                        | Demo Link |
+|----------------------------|---------------------------------------------------------|-----------------------------------|-----------|
+| **Loan Application System**| A complete full-stack platform to apply & track loans. | React, Node.js, MongoDB, Express  | [View](https://loan-app-frontend-eight.vercel.app/) |
+| **Team Space**             | Real-time collaboration platform for teams.             | React, Firebase, TailwindCSS      | [View](https://teamspace12.netlify.app/) |
+| **Investment Portfolio Tracker** | Track assets & visualize returns.                 |  Javascript , Firebase, Html5       | [View](https://nayan-investmentportfoliotracker.netlify.app/login.html) |
+
+---
+
+## 🔧 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayanhajare&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=nayanhajare&show_icons=true&locale=en&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayanhajare&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nayanhajare&theme=gruvbox&row=1&column=6" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/nayan-hajare" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/watch?v=ppn4EiCbUlk" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo 2"/>
+  <a href="mailto:nayan.hajare28@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
+  <a href="https://github.com/nayanhajare" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 💡 Motto
 
-```javascript
-const ankit = {
-  code: ["JavaScript", "Python", "Java", "TypeScript"],
-  technologies: {
-    frontend: { js: ["React", "Next.js", "Vue"], css: ["Tailwind", "Bootstrap", "SASS"] },
-    backend: { js: ["Node.js", "Express"], python: ["Django", "Flask", "FastAPI"], java: ["Spring Boot"] },
-    database: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
-    mobile: ["React Native"],
-    devOps: ["Docker", "AWS", "CI/CD"],
-    AI_ML: ["TensorFlow", "PyTorch", "OpenCV", "Scikit-learn"]
-  },
-  currentFocus: "Building AI-powered fullstack applications",
-  funFact: "I turn coffee into code ☕"
-};
-```
+> **"Build real-world apps with purpose, passion, and precision."** 💻🔥
 
 ---
 
-## 🛠 Tech Stack & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express,django,spring,tailwind,bootstrap" alt="Langs & Frameworks" />
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,aws,azure,gcp,docker,nginx" alt="Databases & Cloud" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" alt="Tools" />
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI/ML" />
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-ai-lab&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-ai-lab&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-ai-lab&theme=radical&hide_border=true" alt="GitHub streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit-ai-lab&theme=react-dark&hide_border=true&area=true" alt="Activity graph" />
-</div>
-
----
-
-## 🏆 Selected Projects (quick links)
-
-- DigiExpres Business Platform — React, Node.js, MongoDB  
-  (Live: <a href="https://www.digiexpres.com" target="_blank" rel="noopener noreferrer">digiexpres.com</a>)
-
-- Full-Stack E-commerce (MERN, Stripe) — Inventory + Payments
-
-- AI Chat Application — Real-time intelligence + sentiment analysis
-
-- Data Analytics Dashboard — Interactive charts & exports
-
-
-
-## 📫 Connect
-
-<div align="center">
-  <a href="https://www.digiexpres.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/ankitgupta" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Ankit-ai-lab" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:ankitguptame98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
-
----
+> 🔔 *Star the repo if you liked this profile layout!* 🌟  
