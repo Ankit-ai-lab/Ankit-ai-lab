@@ -120,19 +120,3 @@ const developer = {
 </div>
 
 ---
-
-## Troubleshooting — Images / Badges / Stats not showing
-
-Common reasons and how to fix them:
-- Use HTTPS: All image URLs must start with https://. Replace http:// with https://.
-- Use raw.githubusercontent for repo assets: If an image/video is stored in your repository, use the raw URL:
-  - Example: https://raw.githubusercontent.com/ankit-ai-lab/ankit-ai-lab/main/path/to/image.png
-  - On GitHub: open the file → click "Raw" → copy that URL.
-- Correct path & case-sensitivity: File paths are case-sensitive. Ensure the filename and path match exactly.
-- File committed to default branch: The asset must be committed to the branch you are linking (usually main).
-- Third-party services availability: Some services (e.g., herokuapp for streaks) can be down or blocked by browser extensions. If a badge doesn't render:
-  - Try opening the image URL directly in a new tab to see the error.
-  - Consider switching to a different provider or self-hosting an image in your repo.
-- Content blockers / privacy extensions: Adblocks or privacy extensions can block third-party badge hosts (shields, vercel, heroku). Test in an incognito window or disable extensions.
-- Avoid broken Markdown blocks: Don't wrap the entire README in a code block accidentally. Closing triple-backticks incorrectly will prevent rendering.
-- Video notes: For video assets in the repo use the raw.githubusercontent.com URL with spaces URL-encoded or replace spaces with %20. Example used above: developer%20video.mp4
