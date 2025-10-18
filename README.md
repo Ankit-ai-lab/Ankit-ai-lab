@@ -1,7 +1,7 @@
 # 💻 Ankit Gupta — Full Stack Developer | AI Enthusiast
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ankit%25Gupta&fontSize=60&fontAlignY=35&animation=fadeIn" alt="Ankit Gupta header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ankit 25Gupta&fontSize=60&fontAlignY=35&animation=fadeIn" alt="Ankit Gupta header" />
 
   <h2>🚀 Full Stack Developer | Data Analyst | AI/ML Explorer</h2>
 
@@ -93,17 +93,7 @@ const ankit = {
 
 - Data Analytics Dashboard — Interactive charts & exports
 
----
 
-## ✨ Digital Clock Demo (Multiple Time Zones)
-
-A small demo that shows the current time across different time zones and updates every second. Open the demo in a new tab:
-
-- Demo (local file in repo): <a href="./digital-clock/index.html" target="_blank" rel="noopener noreferrer">digital-clock/index.html</a>
-
-You can also add this to your GitHub Pages or view the demo locally by opening the file in your browser.
-
----
 
 ## 📫 Connect
 
