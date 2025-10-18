@@ -1,19 +1,19 @@
-💻 Full Stack Developer | AI Enthusiast
+# Ankit Gupta — Full Stack Developer | AI Enthusiast
 
 <div align="center">
   <!-- AUTO-PLAYING VIDEO -->
   <video width="80%" autoplay loop muted playsinline style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-    <source src="https://github.com/ankit-ai-lab/ankit-ai-lab/blob/main/developer%20video.mp4?raw=true" type="video/mp4">
+    <source src="https://github.com/ankit-ai-lab/ankit-ai-lab/raw/main/developer%20video.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 
   <h2>🚀 Ankit Gupta</h2>
   <h3>Full Stack Developer | Data Analyst | AI/ML Explorer</h3>
-  
+
   <p>
-    <a href="https://www.digiexpres.com" target="_blank">🌐 Live Portfolio</a> •
-    <a href="https://linkedin.com/in/ankitgupta" target="_blank">💼 LinkedIn</a> •
-    <a href="https://drive.google.com/uc?export=download&id=1xmxDnRbAFlyHHoRHxcbxiKEoB4P0X6ml" target="_blank">📧 Hire Me / Resume</a>
+    <a href="https://www.digiexpres.com" target="_blank" rel="noopener">🌐 Live Portfolio</a> •
+    <a href="https://linkedin.com/in/ankitgupta" target="_blank" rel="noopener">💼 LinkedIn</a> •
+    <a href="https://drive.google.com/uc?export=download&id=1xmxDnRbAFlyHHoRHxcbxiKEoB4P0X6ml" target="_blank" rel="noopener">📧 Hire Me / Resume</a>
   </p>
 </div>
 
@@ -37,59 +37,76 @@ const developer = {
   hobbies: ["Coding", "Problem Solving", "Learning New Tech"],
   contact: "ankitguptame98@gmail.com"
 };
+```
+
 💡 What I Do:
+- 🔭 Build full-stack web apps
+- 🌱 Learning AI/ML integration in web apps
+- 👯 Collaborate on innovative projects
+- 💬 Ask me about React, Node.js, Python, AI/ML
+- ⚡ Fun fact: I turn coffee into code!
 
-🔭 Build full-stack web apps
+---
 
-🌱 Learning AI/ML integration in web apps
+## 🛠 Tech Stack
 
-👯 Collaborate on innovative projects
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</div>
 
-💬 Ask me about React, Node.js, Python, AI/ML
+---
 
-⚡ Fun fact: I turn coffee into code!
+## 📊 GitHub Stats
 
-🛠️ Tech Stack
-Frontend:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit-ai-lab&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-ai-lab&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+</div>
 
-<div align="center"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> </div>
-Backend:
+<div align="center">
+  <!-- The streak service sometimes has availability issues; if this doesn't render, see troubleshooting below -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-ai-lab&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit-ai-lab&theme=react-dark&hide_border=true&area=true" alt="Activity graph" />
+</div>
 
-<div align="center"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> </div>
-Databases & Cloud:
+---
 
-<div align="center"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> </div>
-AI/ML:
+## 🚀 Featured Projects
 
-<div align="center"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> </div>
-📊 GitHub Stats
-<div align="center"> <table> <tr> <td><img src="https://github-readme-stats.vercel.app/api?username=ankit-ai-lab&show_icons=true&theme=radical&hide_border=true" /></td> <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-ai-lab&layout=compact&theme=radical&hide_border=true" /></td> </tr> </table> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-ai-lab&theme=radical&hide_border=true" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit-ai-lab&theme=react-dark&hide_border=true&area=true" /> </div>
-🚀 Featured Projects
-🌟 DigiExpres Business Website
-Tech: React.js, Tailwind CSS, Node.js
-Features: Responsive design, Modern UI/UX, Business solutions
+- DigiExpres Business Website — React, Tailwind CSS, Node.js
+- E-commerce Platform — MERN stack
+- AI Chat Application — Real-time ML messaging
+- Data Analytics Dashboard — Interactive charts
 
-🔥 Other Notable Projects
+---
 
-E-commerce Platform - Full MERN stack
+## 📫 Connect With Me
 
-AI Chat Application - Real-time ML messaging
+<div align="center">
+  <a href="https://www.digiexpres.com" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/ankitgupta" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ankitguptame98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/ankit-ai-lab" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://drive.google.com/uc?export=download&id=1xmxDnRbAFlyHHoRHxcbxiKEoB4P0X6ml" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Hire%20Me%20Resume-FF5733?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" /></a>
+</div>
 
-Data Analytics Dashboard - Interactive charts
+---
 
-Automation Tools - Python scripts for efficiency
+## Troubleshooting — Images / Badges / Stats not showing
 
-📫 Connect With Me
-<div align="center"> <a href="https://www.digiexpres.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a> <a href="https://linkedin.com/in/ankitgupta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:ankitguptame98@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://github.com/ankit-ai-lab" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://drive.google.com/uc?export=download&id=1xmxDnRbAFlyHHoRHxcbxiKEoB4P0X6ml" target="_blank"><img src="https://img.shields.io/badge/Hire%20Me%20Resume-FF5733?style=for-the-badge&logo=google-drive&logoColor=white" /></a> </div>
-💡 Currently Working On
-🤖 AI/ML Integration in web apps
-
-⚡ Microservices Architecture
-
-🔗 Real-time Features with WebSockets
-
-📱 Progressive Web Apps (PWA)
-
-🎯 Performance Optimization
-
-<div align="center"> ⭐️ Support My Work If you like what I do, please ⭐ my repositories! <br/> <img src="https://komarev.com/ghpvc/?username=ankit-ai-lab&label=Profile%20Views&color=blue&style=for-the-badge" /> <p>"Code is poetry in motion" 🚀</p> </div> ```
+Common reasons and how to fix them:
+- Use HTTPS: All image URLs must start with https://. Replace http:// with https://.
+- Use raw.githubusercontent for repo assets: If an image/video is stored in your repository, use the raw URL:
+  - Example: https://raw.githubusercontent.com/ankit-ai-lab/ankit-ai-lab/main/path/to/image.png
+  - On GitHub: open the file → click "Raw" → copy that URL.
+- Correct path & case-sensitivity: File paths are case-sensitive. Ensure the filename and path match exactly.
+- File committed to default branch: The asset must be committed to the branch you are linking (usually main).
+- Third-party services availability: Some services (e.g., herokuapp for streaks) can be down or blocked by browser extensions. If a badge doesn't render:
+  - Try opening the image URL directly in a new tab to see the error.
+  - Consider switching to a different provider or self-hosting an image in your repo.
+- Content blockers / privacy extensions: Adblocks or privacy extensions can block third-party badge hosts (shields, vercel, heroku). Test in an incognito window or disable extensions.
+- Avoid broken Markdown blocks: Don't wrap the entire README in a code block accidentally. Closing triple-backticks incorrectly will prevent rendering.
+- Video notes: For video assets in the repo use the raw.githubusercontent.com URL with spaces URL-encoded or replace spaces with %20. Example used above: developer%20video.mp4
