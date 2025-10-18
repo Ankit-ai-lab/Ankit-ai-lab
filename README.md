@@ -21,7 +21,7 @@
 - 🌱 Currently learning **System Design Basics**
 - 👨‍💻 Projects include: **Loan Application System**, **Team Collaboration App**, **Investment Tracker**
 - 💬 Ask me about: `JavaScript`, `React`, `Node.js`, `MongoDB`, `Express`, `System Design`
-- 📫 Reach me: **nayan.hajare28@gmail.com**
+- 📫 Reach me: **ankitguptame98@gmail.com**
 - 🎯 Goal: Building performant, secure, and scalable web apps
 - ⚡ Fun fact: I write clean code while listening to lo-fi beats 🎧
 
@@ -31,9 +31,9 @@
 
 | Project Name                | Description                                             | Stack Used                        | Demo Link |
 |----------------------------|---------------------------------------------------------|-----------------------------------|-----------|
-| **Loan Application System**| A complete full-stack platform to apply & track loans. | React, Node.js, MongoDB, Express  | [View](https://loan-app-frontend-eight.vercel.app/) |
-| **Team Space**             | Real-time collaboration platform for teams.             | React, Firebase, TailwindCSS      | [View](https://teamspace12.netlify.app/) |
-| **Investment Portfolio Tracker** | Track assets & visualize returns.                 |  Javascript , Firebase, Html5       | [View](https://nayan-investmentportfoliotracker.netlify.app/login.html) |
+| **Digiexpress**| Bussiness Websiet for company. | React, Tailwin,Js,ReactLucidIcon  | [View](https://loan-app-frontend-eight.vercel.app/) |
+| **VoluntierHub**             | Real-time collaboration platform for Who want to help someone who need voluntier.             |Javascript , Firebase, Html5, tailwin      | [View](https://teamspace12.netlify.app/) |
+
 
 ---
 
@@ -57,11 +57,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayanhajare&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankit-ai-lab&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=nayanhajare&show_icons=true&locale=en&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-ai-lab&show_icons=true&locale=en&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayanhajare&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-ai-lab&theme=tokyonight" />
 </p>
 
 ---
@@ -69,7 +69,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nayanhajare&theme=gruvbox&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ankit-ai-lab&theme=gruvbox&row=1&column=6" />
 </p>
 
 ---
@@ -77,13 +77,13 @@
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/nayan-hajare" target="_blank">
+  <a href="https://www.linkedin.com/in/ankit-gupta-me1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:nayan.hajare28@gmail.com">
+  <a href="mailto:ankitguptame98@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/nayanhajare" target="_blank">
+  <a href="https://github.com/Ankit-ai-lab" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
