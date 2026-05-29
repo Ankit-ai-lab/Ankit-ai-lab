@@ -2,7 +2,6 @@
 <!-- ║        ANKIT GUPTA — GitHub Profile README           ║ -->
 <!-- ╚══════════════════════════════════════════════════════╝ -->
 
-<!-- 🎬 AUTOPLAY DEVELOPER VIDEO — Big Background Frame -->
 <div align="center">
 
 <video src="devloper%20video.mp4"
